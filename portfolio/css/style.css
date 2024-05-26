@@ -9748,3 +9748,27 @@ textarea.form-control {
     }
     
   }
+
+
+  .card{
+    padding-top: 10px;
+  }
+
+  #btn button {
+    border-radius: 7px;
+    border: none;
+    width: 5rem;
+    height: 30px;
+    background-color: #587fe8;
+    
+  }
+  #btn {
+    display: flex;
+    justify-content:start;
+    gap: 15px;
+    margin-bottom: 10px;
+  }
+
+  #btn button a {
+    color: white;
+  }
